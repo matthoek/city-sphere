@@ -1,4 +1,6 @@
 # city-sphere
 Raymarched city sphere example written in glsl
+Software used: Bonzomatic code for a live preview of the code.
 
-![Alt text](https://media.giphy.com/media/KCSmpkwDfPIplZyoSz/giphy.gif)
+![City Sphere](https://media.giphy.com/media/KCSmpkwDfPIplZyoSz/source.gif)
+
